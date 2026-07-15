@@ -1,16 +1,849 @@
-# React + Vite
+# Shipping Partner Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+The Shipping Partner Portal is a React-based web application developed to manage the onboarding process of shipping partners.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The application follows a simple workflow where the user completes registration, logs in, uploads required documents, enters bank details, views the profile, and finally reaches the dashboard.
 
-## React Compiler
+Currently, the project uses static data to demonstrate the complete application flow and user interface.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- User Registration
+- User Login
+- Upload Documents
+- Bank Details
+- Profile Page
+- Dashboard Navigation
+- React Router Navigation
+- Local Storage for temporary data
+- Responsive UI
+
+---
+
+## Project Flow
+
+Registration
+
+↓
+
+Login
+
+↓
+
+Upload Documents
+
+↓
+
+Bank Details
+
+↓
+
+Profile
+
+↓
+
+Dashboard
+
+---
+
+## Technologies Used
+
+- React JS
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Local Storage
+
+---
+
+## Future Improvements
+
+- Backend Integration
+- REST API Integration
+- Database Storage
+- Authentication using JWT
+- Dynamic Orders Module
+- Current Orders
+- Completed Orders
+- Real-time Data
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/shipping-partner-portal.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## Note
+
+This project currently uses static data only for demonstrating the application flow and functionality. Real-time data submission, backend APIs, and database integration can be implemented in future versions.
+
+---
+
+## Author
+
+Laxmi Ragi# Shipping Partner Portal
+
+## Project Overview
+
+The Shipping Partner Portal is a React-based web application developed to manage the onboarding process of shipping partners.
+
+The application follows a simple workflow where the user completes registration, logs in, uploads required documents, enters bank details, views the profile, and finally reaches the dashboard.
+
+Currently, the project uses static data to demonstrate the complete application flow and user interface.
+
+---
+
+## Features
+
+- User Registration
+- User Login
+- Upload Documents
+- Bank Details
+- Profile Page
+- Dashboard Navigation
+- React Router Navigation
+- Local Storage for temporary data
+- Responsive UI
+
+---
+
+## Project Flow
+
+Registration
+
+↓
+
+Login
+
+↓
+
+Upload Documents
+
+↓
+
+Bank Details
+
+↓
+
+Profile
+
+↓
+
+Dashboard
+
+---
+
+## Technologies Used
+
+- React JS
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Local Storage
+
+---
+
+## Future Improvements
+
+- Backend Integration
+- REST API Integration
+- Database Storage
+- Authentication using JWT
+- Dynamic Orders Module
+- Current Orders
+- Completed Orders
+- Real-time Data
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/shipping-partner-portal.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## Note
+
+This project currently uses static data only for demonstrating the application flow and functionality. Real-time data submission, backend APIs, and database integration can be implemented in future versions.
+
+---
+
+## Author
+
+Laxmi Ragi# Shipping Partner Portal
+
+## Project Overview
+
+The Shipping Partner Portal is a React-based web application developed to manage the onboarding process of shipping partners.
+
+The application follows a simple workflow where the user completes registration, logs in, uploads required documents, enters bank details, views the profile, and finally reaches the dashboard.
+
+Currently, the project uses static data to demonstrate the complete application flow and user interface.
+
+---
+
+## Features
+
+- User Registration
+- User Login
+- Upload Documents
+- Bank Details
+- Profile Page
+- Dashboard Navigation
+- React Router Navigation
+- Local Storage for temporary data
+- Responsive UI
+
+---
+
+## Project Flow
+
+Registration
+
+↓
+
+Login
+
+↓
+
+Upload Documents
+
+↓
+
+Bank Details
+
+↓
+
+Profile
+
+↓
+
+Dashboard
+
+---
+
+## Technologies Used
+
+- React JS
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Local Storage
+
+---
+
+## Future Improvements
+
+- Backend Integration
+- REST API Integration
+- Database Storage
+- Authentication using JWT
+- Dynamic Orders Module
+- Current Orders
+- Completed Orders
+- Real-time Data
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/shipping-partner-portal.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## Note
+
+This project currently uses static data only for demonstrating the application flow and functionality. Real-time data submission, backend APIs, and database integration can be implemented in future versions.
+
+---
+
+## Author
+
+Laxmi Ragi# Shipping Partner Portal
+
+## Project Overview
+
+The Shipping Partner Portal is a React-based web application developed to manage the onboarding process of shipping partners.
+
+The application follows a simple workflow where the user completes registration, logs in, uploads required documents, enters bank details, views the profile, and finally reaches the dashboard.
+
+Currently, the project uses static data to demonstrate the complete application flow and user interface.
+
+---
+
+## Features
+
+- User Registration
+- User Login
+- Upload Documents
+- Bank Details
+- Profile Page
+- Dashboard Navigation
+- React Router Navigation
+- Local Storage for temporary data
+- Responsive UI
+
+---
+
+## Project Flow
+
+Registration
+
+↓
+
+Login
+
+↓
+
+Upload Documents
+
+↓
+
+Bank Details
+
+↓
+
+Profile
+
+↓
+
+Dashboard
+
+---
+
+## Technologies Used
+
+- React JS
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Local Storage
+
+---
+
+## Future Improvements
+
+- Backend Integration
+- REST API Integration
+- Database Storage
+- Authentication using JWT
+- Dynamic Orders Module
+- Current Orders
+- Completed Orders
+- Real-time Data
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/shipping-partner-portal.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## Note
+
+This project currently uses static data only for demonstrating the application flow and functionality. Real-time data submission, backend APIs, and database integration can be implemented in future versions.
+
+---
+
+## Author
+
+Laxmi Ragi# Shipping Partner Portal
+
+## Project Overview
+
+The Shipping Partner Portal is a React-based web application developed to manage the onboarding process of shipping partners.
+
+The application follows a simple workflow where the user completes registration, logs in, uploads required documents, enters bank details, views the profile, and finally reaches the dashboard.
+
+Currently, the project uses static data to demonstrate the complete application flow and user interface.
+
+---
+
+## Features
+
+- User Registration
+- User Login
+- Upload Documents
+- Bank Details
+- Profile Page
+- Dashboard Navigation
+- React Router Navigation
+- Local Storage for temporary data
+- Responsive UI
+
+---
+
+## Project Flow
+
+Registration
+
+↓
+
+Login
+
+↓
+
+Upload Documents
+
+↓
+
+Bank Details
+
+↓
+
+Profile
+
+↓
+
+Dashboard
+
+---
+
+## Technologies Used
+
+- React JS
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Local Storage
+
+---
+
+## Future Improvements
+
+- Backend Integration
+- REST API Integration
+- Database Storage
+- Authentication using JWT
+- Dynamic Orders Module
+- Current Orders
+- Completed Orders
+- Real-time Data
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/shipping-partner-portal.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## Note
+
+This project currently uses static data only for demonstrating the application flow and functionality. Real-time data submission, backend APIs, and database integration can be implemented in future versions.
+
+---
+
+## Author
+
+Laxmi Ragi# Shipping Partner Portal
+
+## Project Overview
+
+The Shipping Partner Portal is a React-based web application developed to manage the onboarding process of shipping partners.
+
+The application follows a simple workflow where the user completes registration, logs in, uploads required documents, enters bank details, views the profile, and finally reaches the dashboard.
+
+Currently, the project uses static data to demonstrate the complete application flow and user interface.
+
+---
+
+## Features
+
+- User Registration
+- User Login
+- Upload Documents
+- Bank Details
+- Profile Page
+- Dashboard Navigation
+- React Router Navigation
+- Local Storage for temporary data
+- Responsive UI
+
+---
+
+## Project Flow
+
+Registration
+
+↓
+
+Login
+
+↓
+
+Upload Documents
+
+↓
+
+Bank Details
+
+↓
+
+Profile
+
+↓
+
+Dashboard
+
+---
+
+## Technologies Used
+
+- React JS
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Local Storage
+
+---
+
+## Future Improvements
+
+- Backend Integration
+- REST API Integration
+- Database Storage
+- Authentication using JWT
+- Dynamic Orders Module
+- Current Orders
+- Completed Orders
+- Real-time Data
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/shipping-partner-portal.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## Note
+
+This project currently uses static data only for demonstrating the application flow and functionality. Real-time data submission, backend APIs, and database integration can be implemented in future versions.
+
+---
+
+## Author
+
+Laxmi Ragi# Shipping Partner Portal
+
+## Project Overview
+
+The Shipping Partner Portal is a React-based web application developed to manage the onboarding process of shipping partners.
+
+The application follows a simple workflow where the user completes registration, logs in, uploads required documents, enters bank details, views the profile, and finally reaches the dashboard.
+
+Currently, the project uses static data to demonstrate the complete application flow and user interface.
+
+---
+
+## Features
+
+- User Registration
+- User Login
+- Upload Documents
+- Bank Details
+- Profile Page
+- Dashboard Navigation
+- React Router Navigation
+- Local Storage for temporary data
+- Responsive UI
+
+---
+
+## Project Flow
+
+Registration
+
+↓
+
+Login
+
+↓
+
+Upload Documents
+
+↓
+
+Bank Details
+
+↓
+
+Profile
+
+↓
+
+Dashboard
+
+---
+
+## Technologies Used
+
+- React JS
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Local Storage
+
+---
+
+## Future Improvements
+
+- Backend Integration
+- REST API Integration
+- Database Storage
+- Authentication using JWT
+- Dynamic Orders Module
+- Current Orders
+- Completed Orders
+- Real-time Data
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/shipping-partner-portal.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## Note
+
+This project currently uses static data only for demonstrating the application flow and functionality. Real-time data submission, backend APIs, and database integration can be implemented in future versions.
+
+---
+
+## Author
+
+Laxmi Ragi# Shipping Partner Portal
+
+## Project Overview
+
+The Shipping Partner Portal is a React-based web application developed to manage the onboarding process of shipping partners.
+
+The application follows a simple workflow where the user completes registration, logs in, uploads required documents, enters bank details, views the profile, and finally reaches the dashboard.
+
+Currently, the project uses static data to demonstrate the complete application flow and user interface.
+
+---
+
+## Features
+
+- User Registration
+- User Login
+- Upload Documents
+- Bank Details
+- Profile Page
+- Dashboard Navigation
+- React Router Navigation
+- Local Storage for temporary data
+- Responsive UI
+
+---
+
+## Project Flow
+
+Registration
+
+↓
+
+Login
+
+↓
+
+Upload Documents
+
+↓
+
+Bank Details
+
+↓
+
+Profile
+
+↓
+
+Dashboard
+
+---
+
+## Technologies Used
+
+- React JS
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Local Storage
+
+---
+
+## Future Improvements
+
+- Backend Integration
+- REST API Integration
+- Database Storage
+- Authentication using JWT
+- Dynamic Orders Module
+- Current Orders
+- Completed Orders
+- Real-time Data
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/shipping-partner-portal.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## Note
+
+This project currently uses static data only for demonstrating the application flow and functionality. Real-time data submission, backend APIs, and database integration can be implemented in future versions.
+
+---
+
+## Author
+
+Laxmi Ragi
